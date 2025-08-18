@@ -10,7 +10,6 @@ print("Olá, mundo! Me chamo Bruno 👨‍💻")
 ## 💻 Sobre mim
 
 > Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São Caetano do Sul.  
-> Me encontrei na tecnologia desde pequeno.  
 > Estagiário remoto na **Compass UOL**.  
 > Sempre em busca de aprender e me desenvolver.
 
