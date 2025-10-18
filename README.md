@@ -2,7 +2,7 @@
 
 ```py
 # Bem-vindo ao meu terminal!
-print("Olá, mundo! Me chamo Bruno 👨‍💻")
+echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 ```
 
 ---
