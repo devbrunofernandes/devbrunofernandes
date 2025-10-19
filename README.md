@@ -39,7 +39,7 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 
 <div align="center">
   <a href="https://github.com/devbrunofernandes/guess-songs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=guess-songs&theme=gotham" alt="Guess Songs" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=guess-songs&theme=dark" alt="Guess Songs" />
   </a>
   
   <p>
@@ -50,11 +50,11 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 
 <div align="center">
   <a href="https://github.com/devbrunofernandes/enigma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=enigma&theme=gotham" alt="Enigma" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=enigma&theme=dark" alt="Enigma" />
   </a>
   
   <p>
-    <b>🔊 Enigma — Simulação de máquina de criptografia usada na segunda guerra mundial</b><br>
+    <b>📠 Enigma — Simulação de máquina de criptografia usada na segunda guerra mundial</b><br>
     <code>C++</code>
   </p>
 </div>
@@ -67,9 +67,9 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 # Streak e linguagens
 ```
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devbrunofernandes&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=devbrunofernandes&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
   &nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devbrunofernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devbrunofernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ---
