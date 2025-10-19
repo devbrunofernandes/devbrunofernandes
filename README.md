@@ -35,7 +35,7 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 
 ---
 
-## 🎮 Projeto em Destaque
+## 🎮 Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/devbrunofernandes/guess-songs">
@@ -45,6 +45,17 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
   <p>
     <b>🔊 Guess Songs — Um jogo interativo de adivinhação de músicas!</b><br>
     <code>Python</code> • <code>Flask</code>
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/devbrunofernandes/enigma">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=enigma&theme=gotham" alt="Enigma" />
+  </a>
+  
+  <p>
+    <b>🔊 Enigma — Simulação de máquina de criptografia usada na segunda guerra mundial</b><br>
+    <code>C++</code>
   </p>
 </div>
 
