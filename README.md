@@ -39,7 +39,7 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 
 <div align="center">
   <a href="https://github.com/devbrunofernandes/guess-songs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=guess-songs&theme=dark" alt="Guess Songs" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=guess-songs&theme=default" alt="Guess Songs" />
   </a>
   
   <p>
@@ -50,7 +50,7 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 
 <div align="center">
   <a href="https://github.com/devbrunofernandes/enigma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=enigma&theme=dark" alt="Enigma" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devbrunofernandes&repo=enigma&theme=default" alt="Enigma" />
   </a>
   
   <p>
@@ -63,13 +63,11 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 
 ## 📊 GitHub Stats
 
-```bash
-# Streak e linguagens
-```
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devbrunofernandes&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
-  &nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devbrunofernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devbrunofernandes&theme=default&show_icons=true&hide_border=false&count_private=true" onerror="this.style.display='none';"></img>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbrunofernandes&theme=default&show_icons=true&hide_border=false&layout=compact" onerror="this.style.display='none';"></img>
+  
 </div>
 
 ---
