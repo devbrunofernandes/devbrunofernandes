@@ -9,8 +9,7 @@ echo "Olá, mundo! Me chamo Bruno 👨‍💻"
 
 ## 💻 Sobre mim
 
-> Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São Caetano do Sul.  
-> Estagiário remoto na **Compass UOL**.  
+> Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São Caetano do Sul.
 > Sempre em busca de aprender e me desenvolver.
 
 ---
